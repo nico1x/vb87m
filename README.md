@@ -28,8 +28,8 @@ Windows/Linux/OSx
 | <kbd>Fn</kbd>+<kbd>←</kbd>                         | LED Pulse mode                                                   |
 | <kbd>Fn</kbd>+<kbd>SUPER</kbd> (short press)       | Shielded <kbd>SUPER</kbd>                                        |
 | <kbd>Fn</kbd>+<kbd>SUPER</kbd> (3 seconds)         | Swap Left <kbd>SUPER</kbd> and <kbd>Fn</kbd>                     |
-| <kbd>Scroll Lock</kbd> (OSx)                       | Brightness -                                                     |
-| <kbd>Pause Break</kbd> (OSx)                       | Brightness +                                                     |
+| <kbd>Lock</kbd> (OSx)                              | Brightness -                                                     |
+| <kbd>Pause</kbd> (OSx)                             | Brightness +                                                     |
 
 
 Android/iOS
